@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HumaiaraD
+- 👋 Hi, I’m Humaiara Diea
 - 👀 I’m interested in web animations
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on Javascript.
