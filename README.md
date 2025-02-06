@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Javascript.
 - 📫 How to reach me - d.humaiara@gmail.com 
 - 😄 Pronouns: who-my-a-ra
-- ⚡ Fun fact: I am an artist, Graphic Designer.
+- ⚡ Fun fact: I am an artist, Illustrator.
 
 <!---
 HumaiaraD/HumaiaraD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
