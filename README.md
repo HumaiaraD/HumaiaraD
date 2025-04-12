@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Humaiara Diea
 - 👀 I’m interested in web animations
-- Skills so far: HTML, CSS, JS, a little bit GSAP, also working on anime.js
-- 💞️ I’m looking to collaborate on Javascript.
+- skills += building
 - 📫 How to reach me - d.humaiara@gmail.com 
 - 😄 Pronouns: who-my-a-ra
 - ⚡ Fun fact: I am an artist, Illustrator.
