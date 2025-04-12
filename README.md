@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Humaiara Diea
-- 👀 I’m interested in web animations
-- skills += building
-- 📫 How to reach me - d.humaiara@gmail.com 
-- 😄 Pronouns: who-my-a-ra
-- ⚡ Fun fact: I am an artist, Illustrator.
+👋 Hi, I’m Humaiara Diea
+👀 I’m interested in web animations
+📫 How to reach me - d.humaiara@gmail.com 
+😄 Pronouns: who-my-a-ra
+⚡ Fun fact: I am an artist, Illustrator.
+
+Skills += upgrading-daily
 
 - ### 🛠️ Languages & Libraries
 
