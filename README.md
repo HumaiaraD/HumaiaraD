@@ -4,7 +4,7 @@
 😄 Pronouns: who-my-a-ra
 ⚡ Fun fact: I am an artist, Illustrator.
 
-Skills += upgrading-daily
+Skills += upgrading
 
 - ### 🛠️ Languages & Libraries
 
