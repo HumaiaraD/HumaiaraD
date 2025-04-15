@@ -1,5 +1,5 @@
 --👋 Hi, I’m Humaiara Diea<br>
---👀 I’m interested in web animations<br>
+--👀 Interested in Web Design<br>
 --📫 How to reach me - d.humaiara@gmail.com <br>
 --😄 Pronouns: who-my-a-ra <br>
 --⚡ Fun fact: I am an artist, Illustrator. <br>
