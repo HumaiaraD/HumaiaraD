@@ -16,6 +16,10 @@ Skills += building
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 ![Anime.js](https://img.shields.io/badge/Anime.js-000000?style=for-the-badge&logo=anime.js&logoColor=white)
 
+- ### For Design
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+
+
 
 <!---
 HumaiaraD/HumaiaraD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
