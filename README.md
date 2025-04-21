@@ -1,4 +1,4 @@
---👋 Hi, I’m Humaiara Diea. I am lookign to work as a Web Developer.<br>
+--👋 Hi, I’m Humaiara Diea. I am looking to work as a Web Developer.<br>
 --👀 Interested in Web Design<br>
 --📫 How to reach me - d.humaiara@gmail.com <br>
 --🔗 Other platforms:- 💼 [Coddytech Profile](https://coddy.tech/profile)<br>
