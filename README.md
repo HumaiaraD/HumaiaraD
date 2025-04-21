@@ -1,7 +1,7 @@
 --👋 Hi, I’m Humaiara Diea<br>
 --👀 Interested in Web Design<br>
 --📫 How to reach me - d.humaiara@gmail.com <br>
---### 🔗 Other platforms:- 💼 [Coddytech Profile](https://coddy.tech/profile)
+--### 🔗 Other platforms:- 💼 [Coddytech Profile](https://coddy.tech/profile)<br>
 --😄 Pronouns: who-my-a-ra <br>
 --⚡ Fun fact: I am an artist, Illustrator. <br>
 
