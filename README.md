@@ -4,6 +4,7 @@
 --🔗 Other platforms:- 💼 [Coddytech Profile](https://coddy.tech/profile)<br>
 --😄 Pronouns: who-my-a-ra <br>
 --⚡ Fun fact: I am an artist, Illustrator. <br>
+--🚧 Currently working on my own website. <br>
 
 Skills += building
 
