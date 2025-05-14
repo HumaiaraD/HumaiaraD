@@ -2,7 +2,7 @@
 --👀 Interested in Animations<br>
 --📫 How to reach me - d.humaiara@gmail.com <br>
 --🔗 Other platforms:- 💼 [Coddytech Profile](https://coddy.tech/profile)<br>
---😄 Pronouns: who-my-a-ra <br>
+--😄 Pronounce: who-my-a-ra <br>
 --⚡ Fun fact: I am an artist, Illustrator. <br>
 --🚧 Currently working on my own website. <br>
 
