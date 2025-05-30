@@ -3,7 +3,7 @@
 ### 📫 How to reach me  
 **Email**: [d.humaiara@gmail.com](mailto:d.humaiara@gmail.com)  
 **Portfolio**: [Coddytech Profile](https://coddy.tech/profile)  
-### Pronounce: who-my-a-ra <br>
+### Pronounce: who-my-a-ra di-ya <br>
 ### Fun fact: I am an artist, Illustrator. <br>
 --🚧 Currently working on my own website. <br>
 
