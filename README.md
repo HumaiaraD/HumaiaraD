@@ -19,7 +19,7 @@
 ### Animation Libraries
 
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Anime.js](https://img.shields.io/badge/Anime.js-000000?style=for-the-badge&logo=anime.js&logoColor=white)
+
 
 ### Design Tools
 
