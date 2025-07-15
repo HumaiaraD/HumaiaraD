@@ -1,5 +1,6 @@
 ### 👋 Hi, I’m Humaiara Diea.<br>
 --- 🎨 As an artist, I initially wanted to create a space to showcase my work. Being naturally drawn to building things from scratch, I decided to make my own website. That curiosity led me   down the rabbit hole of coding — what started as a simple idea turned into a passion I couldn’t walk away from. Now, I’m just as excited to build with code as I am with a paintbrush.<br>
+### All my repos have videos/ss that showcases each project.
 ### 📫 How to reach me  
 **Email**: [d.humaiara@gmail.com](mailto:d.humaiara@gmail.com)   
 ### Pronounce: who-my-a-ra   di-ya <br>
