@@ -30,8 +30,6 @@
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
 ---
-### Leetcode
-![LeetCode Stats](https://leetcard.jacoblin.cool/humaiarad)
 
 
 <!---
