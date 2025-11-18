@@ -1,6 +1,6 @@
 ###  Hi, I’m Humaiara Diea.<br>
 ---  As an artist, I initially wanted to create a space to showcase my work. Being naturally drawn to building things from scratch, I decided to make my own website. That curiosity led me   down the rabbit hole of coding — what started as a simple idea turned into a passion I couldn’t walk away from. Now, I’m just as excited to build with code as I am with a paintbrush.<br>
---- Love creating apps things using technology.
+--- Love creating apps using technology.
 ###  How to reach me  
 ### My Website : https://www.humaiaradiea.com/
 **Email**: [d.humaiara@gmail.com](mailto:d.humaiara@gmail.com)   
