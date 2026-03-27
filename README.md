@@ -6,7 +6,7 @@
 **Email**: [d.humaiara@gmail.com](mailto:d.humaiara@gmail.com)   
 ### Pronounce: who-my-a-ra   di-ya <br>
 *** Fun fact: I am an artist, Illustrator. <br>
-***I love using ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+***I love using ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) to blog my projects.
 
 
 ### Languages & Frameworks
