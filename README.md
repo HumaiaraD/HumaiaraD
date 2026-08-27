@@ -3,7 +3,7 @@
 --- Love creating apps using technology.
 ###  How to reach me  
 ### My Website : https://www.humaiaradiea.com/
-### Enrolled in FLATIRON SCHOOL - graduate in Nov, 2027
+--- Enrolled in FLATIRON SCHOOL - graduate in Nov, 2027
 **Email**: [d.humaiara@gmail.com](mailto:d.humaiara@gmail.com)   
 ### Pronounce: who-my-a-ra   di-ya <br>
 *** Fun fact: I am an artist, Illustrator. <br>
