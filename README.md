@@ -4,7 +4,7 @@
 ###  How to reach me  
 **Email**: [d.humaiara@gmail.com](mailto:d.humaiara@gmail.com)   
 ### My Website : https://www.humaiaradiea.com/
---- Enrolled in FLATIRON SCHOOL - finished SE course, now learning Data Science.
+--- Enrolled in FLATIRON SCHOOL - finished SE course, now learning Data Science with AI.
 ### Pronounce: who-my-a-ra   di-ya <br>
 
 ### Languages & Frameworks & Libraries
